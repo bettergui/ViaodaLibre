@@ -1,10 +1,10 @@
 # ViaodaLibre
 
-Inspired by Vietnamese cultural symbolism, Viaoda Antiqua is a mix of both the old and the new, appearing with traditional elegance and modern professionalism at the same time.
+Inspired by Vietnamese cultural symbolism, Viaoda Libre and Viaoda Antiqua is a mix of both the old and the new, appearing with traditional elegance and modern professionalism at the same time.
 
 Typeface: Viaoda Libre
 
-Type & Graphic Design: Gydient (GY Nguyen)
+Type & Graphic Design: Gydient (Giang Nguyen)
 
 Copywriting: Minh Pham
 

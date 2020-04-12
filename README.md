@@ -13,13 +13,27 @@ Type & Graphic Design: [Gydient](https://gydient.com) (Giang Nguyen)
 
 Copywriting: Minh Pham
 
-Type Engineer: Vietanh D. Nguyen  
+Type Engineer: Vietanh D. Nguyen
+
+### Version 2.000
+
+![Changes in 2.000](samples/4.png)
+![Cleaner default set](samples/5.png)
+
+### Version 1.000
 
 ![Sample 1](samples/1.jpg)
 ![Sample 2](samples/2.jpg)
 ![Sample 3](samples/3.jpg)
 
 ## Changelog
+
+### Version 2.000
+
+- The number of glyphs increased to 898.
+- Simplified the previously decorated O and H and instead created two stylistic sets such glyphs.
+- Refined kerning for latin and cyrillic sets.
+- Tweaked punctuation.
 
 ### Version 1.000
 

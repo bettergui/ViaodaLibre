@@ -167,12 +167,16 @@ code = "sub parenleft by parenleft.case;\012sub parenright by parenright.case;\0
 name = case;
 },
 {
-code = "lookupflag IgnoreMarks;\012sub f i by f_i;\012sub f l by f_l;\012sub T h by T_h;\012sub c t by c_t;\012sub f b by f_b;\012sub f h by f_h;\012sub f j by f_j;\012sub f k by f_k;\012sub f t by f_t;\012sub s t by s_t;\012sub t t by t_t;\012sub f f by f_f;\012";
+code = "lookupflag IgnoreMarks;\012sub f i by f_i;\012sub f l by f_l;\012sub T h by T_h;\012sub f b by f_b;\012sub f h by f_h;\012sub f j by f_j;\012sub f k by f_k;\012sub f t by f_t;\012sub t t by t_t;\012sub f f by f_f;\012";
 name = liga;
 },
 {
 code = "lookupflag IgnoreMarks;\012sub f f b by f_f_b;\012sub f f h by f_f_h;\012sub f f j by f_f_j;\012sub f f k by f_f_k;\012sub f f i by f_f_i;\012sub f f l by f_f_l;\012sub f f f by f_f_f;\012sub f f t by f_f_t;";
 name = dlig;
+},
+{
+code = "lookupflag IgnoreMarks;\012sub c t by c_t;\012sub s t by s_t;\012";
+name = hlig;
 },
 {
 automatic = 1;
